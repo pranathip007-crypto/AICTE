@@ -1,0 +1,10 @@
+{
+  "id": 101,
+  "name": "Alex Mercer",
+  "isActive": true,
+  "skills": ["JavaScript", "Python", "SQL"],
+  "address": {
+    "city": "Seattle",
+    "country": "USA"
+  }
+}
